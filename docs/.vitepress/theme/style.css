@@ -1,0 +1,12 @@
+::-webkit-scrollbar {
+  width: 6px; /* 滚动条宽度 */
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  border-radius: 10px;
+  transition: 0.2s ease-in-out;
+}
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+}
