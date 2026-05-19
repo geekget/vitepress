@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vitepress dev docs --host 192.168.3.211",
     "build": "vitepress build docs",
-    "preview": "vitepress preview docs"
+    "preview": "vitepress preview docs",
+	"cfbuild": "git fetch --unshallow && vitepress build src"
   },
   "repository": "git+https://github.com/",
   "keywords": [
