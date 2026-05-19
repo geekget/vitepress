@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Geek888's blog"
+  name: "Geek222's blog"
   text: "geek个人博客"
   tagline: 一行代码，一个世界，欢迎来到我的数字世界
   image:
