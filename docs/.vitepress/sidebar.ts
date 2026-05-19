@@ -442,6 +442,10 @@ const sidebar = {
                 text: 'win10下载与安装',
                 link: '/my-life/电脑工具/win10下载与安装'
             },
+			{
+			    text: '油管教程',
+			    link: '/my-life/电脑工具/油管教程'
+			},
             {
                 text: '谷歌浏览器使用',
                 link: '/my-life/电脑工具/谷歌浏览器使用'
