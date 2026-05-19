@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Liawn's blog"
-  text: "Liawn个人博客"
-  tagline: 博客驱动内核是vitepress
+  name: "Geek's blog"
+  text: "geek个人博客"
+  tagline: 一行代码，一个世界，欢迎来到我的数字世界
   image:
     src: /logo.png
-    alt: Liawn's blog
+    alt: geek's blog
   actions:
     - theme: brand
       text: 进入 →
-      link: /front-end/
+      link: /my-life/
 
 features:
-  - title: Node版本
-    details: 18.20.4
-  - title: VitePress版本
-    details: 1.3.4
-  - title: 优势
-    details: 比docsify快，比Vue2版本的VuePress快，特别是MarkDown修改时特别快
+  - title: 保持好奇
+    details: 记录思考，不至于技术
+  - title: 构建知识
+    details: 分享技术，探索未来
+  - title: 在文字中沉淀
+    details: 在时间中成长
 ---
 

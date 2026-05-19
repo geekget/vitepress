@@ -4,7 +4,7 @@ import renderInlineCode from "./render-inline-code.js"
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'Liawn\'s blog',
+  title: 'Geek\'s blog',
   description: '用vuepress2搭建的个人博客',
   srcDir: './src',
   head: [
@@ -25,7 +25,9 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: '前端', link: '/front-end/' },
+      { text: 'NAS', link: 'https://home-fn.599722.xyz/' },
+	  { text: '音乐', link: 'https://music-cf.jaka.eu.org/' },
+	  { text: '前端', link: '/front-end/' },
       { text: '后端', link: '/back-end/' },
       { text: '生活', link: '/my-life/' }
     ],
@@ -35,10 +37,10 @@ export default defineConfig({
       label: '页面导航'
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/liawnliu/blog-liawn' }
+      { icon: 'github', link: 'https://github.com/' }
     ],
     footer: {
-      message: 'MIT Licensed | Copyright © 2023-present LiawnLiu'
+      message: 'MIT Licensed | Copyright © 2023-present geek'
     }
   },
   markdown: {
