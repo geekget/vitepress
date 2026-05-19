@@ -36,9 +36,6 @@ export default defineConfig({
       level: 'deep',
       label: '页面导航'
     },
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/' }
-    ],
     footer: {
       message: 'MIT Licensed | Copyright © 2023-present geek'
     }
