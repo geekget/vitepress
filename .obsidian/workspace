@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "95414908afc8db71",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f0a2673736bfaca",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c8b1446f1a8ea236",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fca7b15bb616962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97eef4ed86db94bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9468cdbd1a3f8cf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bc5949d6ea211bc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ca2198d04eee14b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36e9ba147aa3334f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1f0a2673736bfaca",
+  "lastOpenFiles": [
+    "README.md",
+    "docs/src/index.md"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "60f3ae739e19b5bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4b1f1dde4d91fd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f47abbf5c19e03c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f7bbfbf6274391c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd003315790e6c7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4af9ba6b10202959",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2dc2d00612d97aca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "14746fec7aa7b0a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c52e4d55ad416be4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d8791092fbf750",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b64720d05ebfb421",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "4aed84724ab4b03d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "89fe862bee696bd1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7f47abbf5c19e03c",
+  "lastOpenFiles": [
+    "未命名.canvas",
+    "docs/src/index.md",
+    "未命名 4.base",
+    "未命名 5.base",
+    "未命名 1.base",
+    "未命名.base",
+    "未命名 3.base",
+    "docs/src/front-end/html、css、js、ts/学习CSS/img/9.网格布局/网格元素绝对定位.png",
+    "未命名 2.base"
+  ]
+}
