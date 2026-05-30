@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "28b044715521b4f7",
+        "id": "c8ba1b0b8b6b66ed",
         "type": "tabs",
         "children": [
           {
-            "id": "03cfb70283f02ee8",
+            "id": "fd28276a67dc1485",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -157,18 +157,19 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "wechat-converter:微信公众号转换器": false
+      "wechat-converter:微信公众号转换器": false,
+      "astro-composer:Open project terminal": false
     }
   },
-  "active": "89fe862bee696bd1",
+  "active": "fd28276a67dc1485",
   "lastOpenFiles": [
-    "docs/src/my-life/电脑工具/谷歌浏览器使用.md",
+    "docs/src/my-life/电脑工具/信用卡生成.md",
     "docs/src/my-life/电脑工具/国外广告联盟.md",
+    "docs/src/my-life/电脑工具/谷歌浏览器使用.md",
     "docs/src/my-life/电脑工具/价格行为学.md",
     "README.md",
     "未命名/未命名",
     "未命名",
-    "docs/src/my-life/电脑工具/信用卡生成.md",
     "docs/src/my-life/电脑工具/win10下载与安装.md",
     "docs/src/my-life/电脑工具/N字形形态.md",
     "Users/a1234/vitepress/docs/src/my-life/111.md",
