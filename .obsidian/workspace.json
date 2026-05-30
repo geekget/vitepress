@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 714.5
+    "width": 431.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,7 +160,7 @@
       "wechat-converter:微信公众号转换器": false
     }
   },
-  "active": "03cfb70283f02ee8",
+  "active": "89fe862bee696bd1",
   "lastOpenFiles": [
     "docs/src/my-life/电脑工具/谷歌浏览器使用.md",
     "docs/src/my-life/电脑工具/国外广告联盟.md",
