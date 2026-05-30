@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b1f1dde4d91fd3",
+        "id": "8b06bdc36a7e5fda",
         "type": "tabs",
         "children": [
           {
-            "id": "7f47abbf5c19e03c",
+            "id": "1de627ac41fada21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/src/my-life/电脑工具/信用卡生成.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "信用卡生成"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 302.5
   },
   "right": {
     "id": "c52e4d55ad416be4",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/src/my-life/电脑工具/N字形形态.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "N字形形态 的反向链接列表"
             }
           },
           {
@@ -125,13 +130,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9dcda09bbce24bba",
+            "type": "leaf",
+            "state": {
+              "type": "apple-style-converter",
+              "state": {},
+              "icon": "wand",
+              "title": "微信公众号转换器"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 714.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,19 +156,43 @@
       "command-palette:打开命令面板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "wechat-converter:微信公众号转换器": false
     }
   },
-  "active": "7f47abbf5c19e03c",
+  "active": "4af9ba6b10202959",
   "lastOpenFiles": [
+    "docs/src/my-life/电脑工具/国外广告联盟.md",
+    "docs/src/my-life/电脑工具/信用卡生成.md",
+    "docs/src/my-life/电脑工具/win10下载与安装.md",
+    "docs/src/my-life/电脑工具/谷歌浏览器使用.md",
+    "docs/src/my-life/电脑工具/价格行为学.md",
+    "docs/src/my-life/电脑工具/N字形形态.md",
+    "Users/a1234/vitepress/docs/src/my-life/111.md",
+    "README.md",
+    "Pasted image 20260522162133.png",
+    "docs/src/my-life/电商运营/抖店无货源/1.抖音精细化选品的8个方法.md",
+    "YOLO",
+    "Users/a1234/vitepress/docs/src/my-life",
+    "Users/a1234/vitepress/docs/src",
+    "Users/a1234/vitepress/docs",
+    "Users/a1234/vitepress",
+    "Users/a1234",
+    "Users",
+    "docs/src/my-life/电脑工具/未命名.md",
+    "docs/src/my-life/电脑工具/1222.md",
+    "docs/src/my-life/电脑工具/img/Frp实现内网穿透/223.md",
+    "docs/src/my-life/电脑工具/img/win10安装 1/win10download.png",
+    "docs/src/my-life/电脑工具/img/win10安装 1/up.png",
+    "docs/src/my-life/电脑工具/img/win10安装 1/MediaCreationTool.png",
+    "docs/src/my-life/电脑工具/img/win10安装 1",
+    "docs/src/my-life/电脑工具/Frp实现内网穿透.md",
+    "docs/package.json",
+    "docs/package-lock.json",
+    "docs/README.md",
+    "docs/src/my-life/电脑工具/SoftEther实现虚拟局域网.md",
     "未命名.canvas",
     "docs/src/index.md",
-    "未命名 4.base",
-    "未命名 5.base",
-    "未命名 1.base",
-    "未命名.base",
-    "未命名 3.base",
-    "docs/src/front-end/html、css、js、ts/学习CSS/img/9.网格布局/网格元素绝对定位.png",
-    "未命名 2.base"
+    "docs/src/front-end/html、css、js、ts/学习CSS/img/9.网格布局/网格元素绝对定位.png"
   ]
 }
