@@ -443,8 +443,20 @@ const sidebar = {
                 link: '/my-life/电脑工具/win10下载与安装'
             },
 			{
-			    text: '油管教程',
-			    link: '/my-life/电脑工具/油管教程'
+			    text: '国外广告联盟',
+			    link: '/my-life/电脑工具/国外广告联盟'
+			},
+			{
+			    text: '价格行为学',
+			    link: '/my-life/电脑工具/价格行为学'
+			},
+			{
+			    text: '信用卡生成',
+			    link: '/my-life/电脑工具/信用卡生成'
+			},
+			{
+			    text: 'N字形态',
+			    link: '/my-life/电脑工具/N字形形态'
 			},
             {
                 text: '谷歌浏览器使用',
